@@ -12,3 +12,13 @@ config_version=5
 
 config/name="TecnoDesafío 12"
 config/features=PackedStringArray("4.4", "Forward Plus")
+
+[file_customization]
+
+folder_colors={
+"res://Escenas/": "orange",
+"res://Escenas/Scrip/": "gray",
+"res://Sprites/": "red",
+"res://Sprites/NPC/": "gray",
+"res://TailSet/": "green"
+}
